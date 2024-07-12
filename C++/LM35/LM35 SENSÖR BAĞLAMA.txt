@@ -1,0 +1,15 @@
+LM35 SENSÖR BAĞLAMA
+
+yazılı yüzeyi kendımıze tutucaz 
+sağ taraf gnd
+sol tarafa 1 numara 5v
+orta A1
+--------------------------------------
+OKUNAN DEĞER 0-1023 
+,1 anlamı virgülden sonra o kadar değer yazdırır
+
+menü yaparken do while döngüsü içinde 
+while select  bağlı
+
+
+
